@@ -1,5 +1,5 @@
-<h2>React Boilerplate</h2>
-A boilerplate React app.
+<h2>GotTime</h2>
+A React timer app.
 
 Run 'npm install'.
 
