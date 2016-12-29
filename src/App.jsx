@@ -4,10 +4,9 @@ import Navigation from 'Navigation';
 let App = ({children}) => {
   return (
     <div className="App">
-      <div>
-        <div>
-          <Navigation/>
-          <p>App.jsx rendered</p>
+      <Navigation/>
+      <div className="row">
+        <div className="column small-centered medium-6 large-4">
           {children}
         </div>
       </div>
