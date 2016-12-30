@@ -1,7 +1,7 @@
 {
-  "name": "React_Boilerplate",
+  "name": "Timer",
   "version": "1.0.0",
-  "description": "Boilerplate React app",
+  "description": "Timer React app",
   "main": "index.js",
   "scripts": {
     "test": "karma start",
